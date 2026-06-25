@@ -4,7 +4,7 @@
 
 ---
 
-## 🗂 Descripción
+## 🗂 Descripción 
 
 Microservicio Lambda que **consume mensajes de la cola SQS** y los persiste en **DynamoDB**.
 Corresponde al **Paso 6 de la Sesión 08**: Lambda Processor con Event Source Mapping SQS → Lambda.
